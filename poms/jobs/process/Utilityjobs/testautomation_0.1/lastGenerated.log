@@ -1,0 +1,46 @@
+[INFO] Disabling enhanced local repository: using legacy is strongly discouraged to ensure build reproducibility.
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------< org.example.mehdi_projecy.job:testAutomation >------------
+[INFO] Building MEHDI_PROJECY testAutomation-0.1.0 (0.1,Job Designs) 0.1.0
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- builder-maven-plugin:7.3.8:generate (default) @ testAutomation ---
+[INFO] Skipping ci-builder
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ testAutomation ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.6.1:compile (default-compile) @ testAutomation ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to C:\Users\mmeksi\workspace\MEHDI_PROJECY\poms\jobs\process\Utilityjobs\testautomation_0.1\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:testResources (default-testResources) @ testAutomation ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 4 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.6.1:testCompile (default-testCompile) @ testAutomation ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to C:\Users\mmeksi\workspace\MEHDI_PROJECY\poms\jobs\process\Utilityjobs\testautomation_0.1\target\test-classes
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ testAutomation ---
+[INFO] Surefire report directory: C:\Users\mmeksi\workspace\MEHDI_PROJECY\poms\jobs\process\Utilityjobs\testautomation_0.1\target\surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running mehdi_projecy.testautomation_0_1.testautomation_0_1.TestAutomationTest
+2022-07-29 14:30:07|BZb2dO|MEHDI_PROJECY|TestAutomation|java|tAssert_1|Ok|--||
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.93 sec
+
+Results :
+
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 3.053 s
+[INFO] Finished at: 2022-07-29T14:30:07+01:00
+[INFO] ------------------------------------------------------------------------

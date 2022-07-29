@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_WMof4PFNEeytrb5Bt6WCtQ" label="mehdi-projecy" description="" language="java" technicalLabel="MEHDI_PROJECY" local="true" author="_WMpG8PFNEeytrb5Bt6WCtQ" productVersion="Talend Data Management Platform-7.3.1.20220105_1637-patch" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_WN2A0PFNEeytrb5Bt6WCtQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_WMpG8PFNEeytrb5Bt6WCtQ" login="mehdi.meksi@sony.com" password="D41D8CD98F00B204E9800998ECF8427E"/>
+</xmi:XMI>
