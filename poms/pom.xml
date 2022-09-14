@@ -10,8 +10,7 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
-    <module>jobs/process/Utilityjobs/testautomationjobs_0.1</module>
-    <module>jobs/process/Utilityjobs/testautomationjobs_0.2</module>
+    <module>jobs/process/Utilityjobs/automationjob_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.2</signer.version>
