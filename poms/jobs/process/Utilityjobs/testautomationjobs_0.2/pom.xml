@@ -10,8 +10,8 @@
   </parent>
   <groupId>org.example.mehdi_projecy.job</groupId>
   <artifactId>testAutomationJobs</artifactId>
-  <version>0.2.0</version>
-  <name>MEHDI_PROJECY testAutomationJobs-0.2.0 (0.2,Job Designs)</name>
+  <version>0.2.0-SNAPSHOT</version>
+  <name>MEHDI_PROJECY testAutomationJobs-0.2.0-SNAPSHOT (0.2,Job Designs)</name>
   <properties>
     <output.resources.dir>${talend.job.name}/src/main/resources</output.resources.dir>
     <talend.job.applyContextToChildren>false</talend.job.applyContextToChildren>
@@ -20,7 +20,7 @@
     <talend.job.version>0.2</talend.job.version>
     <talend.project.name.lowercase>mehdi_projecy</talend.project.name.lowercase>
     <talend.job.path>mehdi_projecy</talend.job.path>
-    <project.distribution-management.repository.id>${project.distributionManagement.repository.id}</project.distribution-management.repository.id>
+    <project.distribution-management.repository.id>${project.distributionManagement.snapshotRepository.id}</project.distribution-management.repository.id>
     <maven.build.timestamp.format>yyyy-MM-dd HHmmssSSS</maven.build.timestamp.format>
     <talend.project.name>MEHDI_PROJECY</talend.project.name>
     <talend.product.version>7.3.1.20220105_1637-patch</talend.product.version>
@@ -38,7 +38,7 @@
     <talend.project.id>0</talend.project.id>
     <talend.job.folder>utilityjobs/</talend.job.folder>
     <talend.job.framework></talend.job.framework>
-    <project.distribution-management.repository.url>${project.distributionManagement.repository.url}</project.distribution-management.repository.url>
+    <project.distribution-management.repository.url>${project.distributionManagement.snapshotRepository.url}</project.distribution-management.repository.url>
     <talend.job.type>Standard</talend.job.type>
   </properties>
   <dependencies>

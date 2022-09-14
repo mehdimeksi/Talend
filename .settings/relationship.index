@@ -80,15 +80,4 @@
     "version" : "Latest",
     "type" : "context"
   } ]
-}, {
-  "baseItem" : {
-    "id" : "_9OUywPFNEeytrb5Bt6WCtQ",
-    "version" : "0.2",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_7bSPMPFKEeyZHfUSBRVMhg",
-    "version" : "0.2",
-    "type" : "test_case"
-  } ]
 } ]
